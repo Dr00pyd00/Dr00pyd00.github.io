@@ -1,7 +1,7 @@
 
 function addNavBar() {
 
-    fetch('/assets/components/navbar.html')
+    fetch('assets/components/navbar.html')
     .then(response => response.text())
     .then(html =>{
 
