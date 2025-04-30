@@ -1,3 +1,9 @@
 body {
-    background-color: rgb(17, 14, 14);
+    background-color: #181818; /* Fond sombre */
+    color: #e1e4e8;            /* Texte clair (similaire à GitHub) */
+    font-family: Arial, sans-serif; /* Choisis une police lisible */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* Les titres seront en blanc */
 }
