@@ -7,11 +7,5 @@
 </head>
 <body>
 
-    <h1>My Page</h1>
-    <hr> <br>
-
-    <ul>
-        <li><h4>My APIs <a href="/api_list.html">here</a> </h4></li>
-    </ul>
 </body>
 </html>

@@ -25,23 +25,4 @@ document.addEventListener('DOMContentLoaded', () => {
     setInterval(loadCatList, 10000);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 });
